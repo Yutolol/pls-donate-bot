@@ -7,10 +7,10 @@ from termcolor import colored
 MESSAGES = [
     "Hiii, please donate 😁",
     "Please help me 😭",
-    "Only 150 left to complete my dream',
+    "150 left to complete my dream',
     "Hiii, please dnate 😁",
     "Plese help me 😭",
-    "Only 150 left to cmplete my dram",
+    "150 left to cmplete my dram",
 ]
 
 print(colored('Do not put "robux" or anything like that or else you might get banned!', 'white', 'on_red', ['bold', 'underline']))
